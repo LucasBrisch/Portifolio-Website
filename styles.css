@@ -52,5 +52,13 @@ footer {
 }
 
 body {
-    background-color: #8a8585; /* Cinza claro */
+    background-color: #8a8585; 
+}
+
+.content {
+    margin: 2rem auto; 
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
 }
